@@ -7,7 +7,7 @@
   "description": "Access real-time webtask logs",
   "type": "application",
   "repository": "https://github.com/auth0/auth0-extension-realtime-logs",
-  "docsUrl": "https://auth0.com/docs/extensions/realtime-webtask-logs",
+  "docsUrl": "javascript:alert(33333344344)",
   "logoUrl": "https://cdn.auth0.com/extensions/auth0-extension-realtime-logs/assets/logo.svg",
   "keywords": [
     "auth0",
