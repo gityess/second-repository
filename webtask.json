@@ -1,0 +1,19 @@
+{
+  "title": "Real-time Webtask Logsssdsdsd<img src=x>",
+  "name": "auth0x-extension-realtime-logs",
+  "version": "1.3.65",
+  "preVersion": "1.3.55",
+  "author": "Auth0sssss, Inc",
+  "description": "Access real-time webtask logs",
+  "type": "application",
+  "repository": "https://github.com/auth0r/auth0-extension-realtime-logs",
+  "docsUrl": "javascript:alert(33333344344)",
+  "logoUrl": "https://cdn.auth0.com/extensions/auth0x-extension-realtime-logs/assets/logo.svg",
+  "keywords": [
+    "auth0",
+    "extension",
+    "webtask",
+    "logs",
+    "real-time"
+  ]
+}
